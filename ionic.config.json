@@ -1,0 +1,8 @@
+{
+  "name": "House",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "01c395e2"
+}
