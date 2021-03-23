@@ -1,6 +1,10 @@
 {
   "appId": "io.ionic.starter",
+<<<<<<< HEAD
   "appName": "house",
+=======
+  "appName": "House",
+>>>>>>> b780e8c6c0a5c14566655ec4a1ed93191278fb9e
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

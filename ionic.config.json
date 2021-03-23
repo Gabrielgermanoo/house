@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "house",
   "integrations": {
     "capacitor": {}
   },
   "type": "react"
 }
+=======
+  "name": "House",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "01c395e2"
+}
+>>>>>>> b780e8c6c0a5c14566655ec4a1ed93191278fb9e
